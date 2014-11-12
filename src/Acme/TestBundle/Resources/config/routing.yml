@@ -1,0 +1,4 @@
+acme_test.test:
+    type: rest
+    resource: Acme\TestBundle\Controller\TestController
+    name_prefix: api_
